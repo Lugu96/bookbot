@@ -1,2 +1,2 @@
 # bookbot
-My first boot.dev project
+BookBot is my first git project!
